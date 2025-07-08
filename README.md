@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </div>
 
 ###
@@ -27,11 +27,12 @@
 ###
 
 <p align="left">
-I'm Mansvi Shukla, a B.Tech ECE undergrad (2027) passionate about Web Development, Open Source, and DSA.<br><br>
-- 🌐 Currently building a Personal Finance Visualizer using Next.js, MongoDB & Recharts<br>
-- 💼 Open to remote internships & projects in Full Stack Development<br>
-- 💡 Continuously improving my DSA, problem-solving, and system design knowledge<br>
-- ⚡ Fun Fact: I enjoy crafting smooth UI/UX experiences and optimizing backend performance<br>
+I'm Mansvi Shukla, a B.Tech ECE undergrad (2027) exploring the world of technology through Full Stack Web Development, Data Science, and DSA.<br><br>
+- 💻 Built full stack apps using **Next.js**, **MongoDB**, **Node.js**, and **TailwindCSS**<br>
+- 📊 Worked on **Data Science** projects involving **Pandas**, **Matplotlib**, **Scikit-learn**, and **Jupyter Notebooks**<br>
+- 🤖 Applied **Machine Learning** algorithms to real-world datasets like car price prediction and student analysis<br>
+- 🧠 DSA enthusiast: Regular problem-solving to improve logic, patterns & optimization<br>
+- ⚡ Fun Fact: I love clean UIs, solving edge cases, and turning ideas into working products
 </p>
 
 ###
@@ -45,18 +46,24 @@ I'm Mansvi Shukla, a B.Tech ECE undergrad (2027) passionate about Web Developmen
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,postman,jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" />
 </div>
 
 ###
 
-<h3 align="left">📈 LeetCode & DSA</h3>
+<h3 align="left">📈 DSA & Problem Solving</h3>
 
 <p align="left">
-I practice Data Structures and Algorithms regularly on LeetCode and GFG.<br>
-- ✅ Solved 200+ problems<br>
-- 💻 Languages used: C++, JavaScript<br>
-- 🔍 Focused on mastering problem-solving, time-space optimization & core concepts
+DSA is at the core of my skillset and growth mindset.<br><br>
+- ✅ Solved 200+ problems on LeetCode, GFG, and InterviewBit<br>
+- 🔍 Specialized in Arrays, Strings, Trees, LinkedLists, Recursion, and Dynamic Programming<br>
+- ⚔️ Practice competitive-style problems under time pressure<br>
+- 🧩 Languages used: C++ for contests, JavaScript for interviews
 </p>
 
 ###
@@ -72,5 +79,13 @@ I practice Data Structures and Algorithms regularly on LeetCode and GFG.<br>
 <h3 align="center">🚀 Let's Connect!</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mansvishukla11/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mansvi%20Shukla-blue?styl
+  <a href="https://www.linkedin.com/in/mansvi-shukla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mansvi%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mansvi11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mansvi11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mansvishukla2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-mansvishukla2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
