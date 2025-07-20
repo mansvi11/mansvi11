@@ -34,10 +34,12 @@ I'm Mansvi Shukla, a B.Tech ECE undergrad (2027) exploring the world of technolo
 - 🧠 DSA enthusiast: Regular problem-solving to improve logic, patterns & optimization<br>
 - ⚡ Fun Fact: I love clean UIs, solving edge cases, and turning ideas into working products
 ## 🌸 Open Source Contributions
+
 - Contributor at [GirlScript Summer of Code 2025 (GSSoC)](https://gssoc.girlscript.tech)  
 Contributing to impactful open-source projects and growing with the developer community.
 
-<img src="https://i.ibb.co/60F1xpWt/Contributor-s-badge.jpg" alt="GSSoC 2025 Contributor Badge" width="300"/>
+![GSSoC 2025 Contributor Badge](https://i.ibb.co/60F1xpWt/Contributor-s-badge.jpg)
+
 
 
 </p>
