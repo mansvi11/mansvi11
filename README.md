@@ -33,11 +33,11 @@ I'm Mansvi Shukla, a B.Tech ECE undergrad (2027) exploring the world of technolo
 - 🤖 Applied **Machine Learning** algorithms to real-world datasets like car price prediction and student analysis<br>
 - 🧠 DSA enthusiast: Regular problem-solving to improve logic, patterns & optimization<br>
 - ⚡ Fun Fact: I love clean UIs, solving edge cases, and turning ideas into working products
-  ## 🌸 Open Source Contributions
-
+## 🌸 Open Source Contributions
 - 🎯 Contributor at [GirlScript Summer of Code 2025 (GSSoC)](https://gssoc.girlscript.tech)  
-  Contributing to meaningful open-source projects and collaborating with developers across the globe.  
-  ![GSSoC Badge ](./Contributer's badge.jpg)
+  Contributing to impactful open-source projects and growing within an inclusive developer community.
+
+  ![GSSoC Badge](https://i.ibb.co/60F1xpWt/Contributor-s-badge.jpg)
 
 </p>
 
